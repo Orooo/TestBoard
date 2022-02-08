@@ -1,4 +1,4 @@
-package com.fisco.board;
+package com.fisco.board.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
